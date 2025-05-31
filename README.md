@@ -1,4 +1,4 @@
-# Guía de Creación de Hack para Juego Android con Andlua Injector
+# Guía de Creación de Hack para Juegos Android con Andlua Injector
 
 ## Introducción
 
